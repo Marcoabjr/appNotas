@@ -1,0 +1,7 @@
+Utilizar Material UI para desenvolvimento dos componentes.
+
+Criar uma aplicação no estilo "notes app", aplicativo de gerenciamento de notas.
+
+Utilizar o mongodb para a criação da aplicação.
+
+Subir o código no github e vídeo de apresentação ou no youtube ou no ava.
